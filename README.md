@@ -1,5 +1,4 @@
 # LightAgentProtocol
-# LightAgentProtocol
 
 A minimal, framework-agnostic protocol for AI agents to communicate across different frameworks, organizations, and trust boundaries.
 
