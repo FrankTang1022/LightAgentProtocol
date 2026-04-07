@@ -1,0 +1,32 @@
+# Contributing to LightAgentProtocol
+
+感謝你對 LightAgentProtocol 的關注！我們歡迎任何形式的貢獻，包括提出問題、改進文件、提交程式碼等。
+
+## 如何貢獻
+
+1. **提出問題或建議**  
+   請先查看 [Issues](https://github.com/Frank.Tang1022/LightAgentProtocol/issues) 是否已有類似討論。如果沒有，歡迎開啟一個新 Issue，清楚描述你的想法或遇到的問題。
+
+2. **提交程式碼或文件改進**  
+   - 請先開啟一個 Issue 說明你打算修改的內容，避免重複工作或方向不一致。  
+   - 然後 Fork 本專案，建立一個新的分支（例如 `feature/your-change`）。  
+   - 完成修改後，提交 Pull Request，並在描述中關聯對應的 Issue。  
+   - Pull Request 會由維護者審閱，可能需要調整，請耐心等候。
+
+3. **行為準則**  
+   本專案採用 [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md)。參與貢獻即表示你同意遵守其中規範。
+
+## 開發環境設定
+
+請參考 [README.md](README.md) 中的「快速開始」或「範例」章節，啟動本機測試伺服器。
+
+## 風格指南
+
+- Python 程式碼請遵循 [PEP 8](https://pep8.org/)。
+- 提交訊息請使用英文，並以簡潔的祈使句說明變更內容（例如 `Add error handling for missing action`）。
+
+## 取得協助
+
+如果你不確定如何貢獻，或需要討論較大的變更，歡迎直接開啟 Issue 提問。
+
+再次感謝你的支持！
